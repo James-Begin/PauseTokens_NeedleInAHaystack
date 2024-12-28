@@ -1,0 +1,12 @@
+[
+  {
+    "instruction": "Long Context prompt with hidden needle",
+    "input": "Question about needle",
+    "output": "Needle"
+  },
+  {
+    "instruction": "Long Context prompt with hidden needle",
+    "input": "Question about needle",
+    "output": "Needle"
+  }
+]
