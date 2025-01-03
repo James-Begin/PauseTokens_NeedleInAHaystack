@@ -1,0 +1,39 @@
+<s>[INST] <<SYS>>
+{{ system_prompt }}
+<</SYS>>
+
+{{ user_message }}[/INST]
+
+
+</s>
+<s>[INST]
+{{ assistant_response }}
+[/INST]
+
+--------
+
+###Instruction:
+
+Below is the context from which the user wants to ask a question about, you are to answer the question with only statements given in the context and nothing else
+
+
+###Context:
+
+{context}
+
+###User:
+
+{needle question}
+
+###Assistant:
+
+{needle}
+
+
+-------
+
+FINAL:
+
+{"instruction": "Long Context prompt with hidden needle","context": "context requred to answer question","input": "Question about needle","output": "Needle"}
+
+
