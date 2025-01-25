@@ -37,3 +37,6 @@ FINAL:
 {"instruction": "Long Context prompt with hidden needle","context": "context requred to answer question","input": "Question about needle","output": "Needle"}
 
 
+-------
+
+{"needles": ["needle1","needle2",needle3"], "question": "question"}

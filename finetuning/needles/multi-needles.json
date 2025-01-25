@@ -1,0 +1,647 @@
+{
+  "Where are all the Melvins Located? Don't give information outside the document or repeat your findings": [
+    "John Melvin is in New York",
+    "Maria Melvin is in China",
+    "Carl Melvin is in Africa"
+  ],
+  "What are the best foods to try in Alaska? Don't give information outside the document or repeat your findings": [
+    "The best food to try in Alaska is the Chinook Salmon",
+    "The best food to try in Alaska is the Pacific Halibut",
+    "The best food to try in Alaska is the King Crab"
+  ],
+  "What ingredients do you need to make pizza? Don't give information outside the document or repeat your findings": [
+    "To make pizza you need to have fresh tomato sauce",
+    "You also need dough to make pizza",
+    "You need cheese to make pizza"
+  ],
+  "What are all parts of the secret code? Don't give information outside the document or repeat your findings": [
+    "The first part of the secret code is 012",
+    "The second part of the secret code is 978",
+    "The third part of the secret code is z5r"
+  ],
+  "What are the top tourist attractions in Paris? Don't give information outside the document or repeat your findings": [
+    "The top tourist attraction in Paris is the Eiffel Tower",
+    "Another top tourist attraction in Paris is the Louvre Museum",
+    "The Notre Dame Cathedral is also a must-see in Paris"
+  ],
+  "How do you prepare for a marathon? Don't give information outside the document or repeat your findings": [
+    "To prepare for a marathon, you need to follow a structured training plan",
+    "Before the marathon, you should stay hydrated and maintain a balanced diet",
+    "Make sure to get enough rest and recovery time before the marathon"
+  ],
+  "What are some of the best movies ever made? Don't give information outside the document or repeat your findings": [
+    "One of the best movies ever made is 'The Godfather'",
+    "Another great movie is 'The Shawshank Redemption'",
+    "'Inception' is also considered one of the best movies of all time"
+  ],
+  "What are the key ingredients for making a cake? Don't give information outside the document or repeat your findings": [
+    "The key ingredient for making a cake is flour",
+    "Another important ingredient for making a cake is sugar",
+    "You also need eggs to make a delicious cake"
+  ],
+  "What are the best ways to reduce stress? Don't give information outside the document or repeat your findings": [
+    "One of the best ways to reduce stress is by practicing meditation",
+    "Another way to reduce stress is by exercising regularly",
+    "Talking to a trusted friend or therapist can also help reduce stress"
+  ],
+  "What are the most popular sports in the world? Don't give information outside the document or repeat your findings": [
+    "One of the most popular sports in the world is soccer",
+    "Another popular sport is basketball",
+    "Cricket is also one of the most widely-followed sports globally"
+  ],
+  "What are the best ways to learn a new language? Don't give information outside the document or repeat your findings": [
+    "One of the best ways to learn a new language is by practicing with native speakers",
+    "Another effective way to learn a new language is by using apps like Duolingo or Rosetta Stone",
+    "Immersing yourself in the culture of the language you want to learn is also highly effective"
+  ],
+  "What are the essential tools for gardening? Don't give information outside the document or repeat your findings": [
+    "An essential tool for gardening is a spade or shovel",
+    "Another essential gardening tool is a watering can",
+    "You also need a pair of pruning shears for gardening"
+  ],
+  "What are some of the best vacation spots in the world? Don't give information outside the document or repeat your findings": [
+    "One of the best vacation spots in the world is the Maldives",
+    "Another amazing vacation spot is Bali",
+    "Paris is also considered one of the best vacation destinations"
+  ],
+  "What are the main benefits of exercise? Don't give information outside the document or repeat your findings": [
+    "One of the main benefits of exercise is improved cardiovascular health",
+    "Another benefit of exercise is increased mental clarity and reduced stress levels",
+    "Exercise also helps in building muscle strength and endurance"
+  ],
+  "What are the best ways to stay productive? Don't give information outside the document or repeat your findings": [
+    "One of the best ways to stay productive is by creating a daily to-do list",
+    "Another way to stay productive is by minimizing distractions in your workspace",
+    "Taking short breaks throughout the day can also help you stay productive"
+  ],
+  "What are the most common myths about space? Don't give information outside the document or repeat your findings": [
+    "One common myth about space is that astronauts float because there is no gravity",
+    "Another myth about space is that the Moon has a dark side that never receives sunlight",
+    "A third common myth is that space is completely silent"
+  ],
+  "What are the best ways to save money while traveling? Don't give information outside the document or repeat your findings": [
+    "One of the best ways to save money while traveling is by booking flights in advance",
+    "Another way to save money while traveling is by staying in budget accommodations like hostels",
+    "Cooking your own meals instead of eating out is also a great way to save money while traveling"
+  ],
+  "What are the most important skills for leadership? Don't give information outside the document or repeat your findings": [
+    "One of the most important skills for leadership is effective communication",
+    "Another crucial skill for leadership is the ability to inspire and motivate others",
+    "Decision-making under pressure is also a key leadership skill"
+  ],
+  "What are the top challenges of remote work? Don't give information outside the document or repeat your findings": [
+    "One of the top challenges of remote work is maintaining a work-life balance",
+    "Another challenge of remote work is feeling isolated from coworkers",
+    "Staying focused and avoiding distractions at home can also be difficult for remote workers"
+  ],
+  "What are the best books to read for personal growth? Don't give information outside the document or repeat your findings": [
+    "One of the best books for personal growth is 'Atomic Habits' by James Clear",
+    "Another great personal growth book is 'The Power of Now' by Eckhart Tolle",
+    "'Mindset' by Carol S. Dweck is also a highly recommended book for self-improvement"
+  ],
+  "What are the best strategies for learning math? Don't give information outside the document or repeat your findings": [
+    "One of the best strategies for learning math is practicing regularly with a variety of problems",
+    "Another effective strategy is using online resources like Khan Academy for step-by-step explanations",
+    "Working with a tutor or study group can also help you learn math more effectively"
+  ],
+  "What are the best ways to improve your sleep quality? Don't give information outside the document or repeat your findings": [
+    "One of the best ways to improve sleep quality is by maintaining a consistent bedtime schedule",
+    "Another way to improve sleep is by creating a dark and quiet sleeping environment",
+    "Avoiding caffeine and screens before bed can also enhance sleep quality"
+  ],
+  "What are the most fascinating mysteries of the ocean? Don't give information outside the document or repeat your findings": [
+    "One fascinating mystery of the ocean is the existence of deep-sea creatures that thrive in extreme conditions",
+    "Another ocean mystery is the disappearance of shipwrecks and planes like those in the Bermuda Triangle",
+    "The unexplored vastness of the ocean, with over 80% still unmapped, remains a huge mystery"
+  ],
+  "What are the best methods for staying motivated during a project? Don't give information outside the document or repeat your findings": [
+    "One of the best methods for staying motivated during a project is setting clear and achievable milestones",
+    "Another method is rewarding yourself for completing tasks along the way",
+    "Reminding yourself of the purpose and end goal of the project can also keep you motivated"
+  ],
+  "Where are the sloths? Don't give information outside the document or repeat your findings": [
+    "There is a grey sloth in Antarctica",
+    "There is a blue sloth in Canada",
+    "There is a yellow sloth in the Bahamas"
+  ],
+  "What numbers are the hands of the clock pointing to? Don't give information outside the document or repeat your findings": [
+    "A hand of the clock is pointing to 3",
+    "Another hand of the clock is pointing at 14",
+    "The last hand of the clock is pointing towards 12"
+  ],
+  "What items are in the mysterious box? Don't give information outside the document or repeat your findings": [
+    "Inside the mysterious box is a golden key",
+    "The box also contains an old leather journal",
+    "There is a small glass vial filled with red liquid in the box"
+  ],
+  "Where are the glowing stones located? Don't give information outside the document or repeat your findings": [
+    "One glowing stone is hidden deep in the Sahara Desert",
+    "Another glowing stone rests at the bottom of the Pacific Ocean",
+    "The last glowing stone can be found inside a volcano in Iceland"
+  ],
+  "What animals live in the enchanted forest? Don't give information outside the document or repeat your findings": [
+    "In the enchanted forest, there is a silver fox that only appears at night",
+    "There is also a bird with feathers that shimmer like sunlight",
+    "A large black bear with glowing green eyes roams the forest paths"
+  ],
+  "What secrets does the ancient map reveal? Don't give information outside the document or repeat your findings": [
+    "The ancient map points to a hidden cave beneath a frozen lake",
+    "It marks a trail that leads to a mountain with a hollow peak",
+    "The map also shows an X in the middle of a dense jungle"
+  ],
+  "What objects are floating in the abandoned spaceship? Don't give information outside the document or repeat your findings": [
+    "Inside the abandoned spaceship, there is a spinning silver coin",
+    "A red scarf hovers near the control panel",
+    "An old photograph of a planet with two suns floats in the airlock"
+  ],
+  "Where can the singing flowers be found? Don't give information outside the document or repeat your findings": [
+    "The singing flowers grow in the heart of a dense rainforest",
+    "Some of the flowers bloom on the cliffs near a roaring waterfall",
+    "A rare patch of the singing flowers is said to grow in the desert at night"
+  ],
+  "What are the three riddles of the old bridge? Don't give information outside the document or repeat your findings": [
+    "The first riddle asks for the name of a river that flows backwards",
+    "The second riddle demands the answer to a word that has no vowels",
+    "The third riddle challenges you to find something that grows smaller the more you take from it"
+  ],
+  "What colors are the mysterious flames? Don't give information outside the document or repeat your findings": [
+    "The mysterious flames flicker in a deep shade of blue",
+    "Some of the flames burn in a bright green hue",
+    "A few flames occasionally spark into golden yellow"
+  ],
+  "What are the best ways to improve your focus? Don't give information outside the document or repeat your findings": [
+    "You can improve your focus by setting small, clear goals",
+    "Eliminating distractions is a great way to improve your focus",
+    "Taking short breaks helps many people improve their focus"
+  ],
+  "What are the mysteries of the ancient temple? Don't give information outside the document or repeat your findings": [
+    "One mystery of the ancient temple is a secret door in the hall",
+    "The unreadable symbols on the walls are another mystery of the temple",
+    "The echoing whispers at night add to the temple's mystery"
+  ],
+  "What are the best ways to start your day? Don't give information outside the document or repeat your findings": [
+    "Drinking water is one of the best ways to start your day",
+    "Stretching for a few minutes is another good way to start your day",
+    "Planning your tasks is a great way to start your day"
+  ],
+  "What makes the forest unique? Don't give information outside the document or repeat your findings": [
+    "The glowing bark of the trees is one thing that makes the forest unique",
+    "A constant soft hum in the air makes the forest unique",
+    "Flowers that change color add to the forest's uniqueness"
+  ],
+  "What are the secrets of the old library? Don't give information outside the document or repeat your findings": [
+    "One secret of the old library is a hidden staircase",
+    "Another secret of the old library is books that vanish and reappear",
+    "The ever-burning candle is another secret of the old library"
+  ],
+  "What are the best things about autumn? Don't give information outside the document or repeat your findings": [
+    "The crisp air is one of the best things about autumn",
+    "The changing leaves are another wonderful thing about autumn",
+    "Pumpkin-flavored treats make autumn special for many"
+  ],
+  "What are the strange sounds at night? Don't give information outside the document or repeat your findings": [
+    "One strange sound at night is a faint knocking",
+    "Another strange sound at night is whispers carried by the wind",
+    "The sound of distant bells is also heard at night"
+  ],
+  "What makes the lake mysterious? Don't give information outside the document or repeat your findings": [
+    "The lake's glow at dusk is one thing that makes it mysterious",
+    "Its unknown depth adds to the lake's mystery",
+    "The lake's stillness during storms makes it even more mysterious"
+  ],
+  "What are the key tips for learning faster? Don't give information outside the document or repeat your findings": [
+    "Focusing on one task is a key tip for learning faster",
+    "Reviewing notes regularly helps you learn faster",
+    "Asking lots of questions is another tip for learning faster"
+  ],
+  "What’s unique about the old village? Don't give information outside the document or repeat your findings": [
+    "The cobblestone streets make the old village unique",
+    "Lanterns that never go out are unique to the old village",
+    "A bell that rings by itself adds to the old village's uniqueness"
+  ],
+  "What are the best ways to spend a weekend? Don't give information outside the document or repeat your findings": [
+    "Exploring a new hiking trail is one of the best ways to spend a weekend",
+    "Relaxing with a good book is a great way to spend your weekend",
+    "Weekends are best spent catching up with friends"
+  ],
+  "What makes a city enjoyable to live in? Don't give information outside the document or repeat your findings": [
+    "A city with lots of green spaces is more enjoyable to live in",
+    "Cities with a vibrant arts scene are enjoyable places to live",
+    "Having friendly neighbors makes any city enjoyable to live in"
+  ],
+  "What are the best ways to relax after work? Don't give information outside the document or repeat your findings": [
+    "The best way to relax after work is by taking a warm bath",
+    "Listening to music is the best way to unwind after work",
+    "Going for a short walk is a great way to relax after work"
+  ],
+  "What makes a meal unforgettable? Don't give information outside the document or repeat your findings": [
+    "The bold flavors of a dish can make a meal unforgettable",
+    "Sharing a meal with loved ones makes it unforgettable",
+    "The presentation of a dish can make it truly unforgettable"
+  ],
+  "What are the best types of vacations? Don't give information outside the document or repeat your findings": [
+    "Beach vacations are the best because they’re so relaxing",
+    "Adventure vacations are the best for creating lasting memories",
+    "Cultural vacations are the best because you learn so much"
+  ],
+  "What makes a book worth reading? Don't give information outside the document or repeat your findings": [
+    "A book with relatable characters is always worth reading",
+    "A gripping plot makes any book worth reading",
+    "A book that teaches you something new is definitely worth reading"
+  ],
+  "What are the best ways to decorate a home? Don't give information outside the document or repeat your findings": [
+    "Decorating with personal photos makes a home feel warm",
+    "Adding plants is one of the best ways to make a home inviting",
+    "Decorating with soft lighting makes any space feel cozy"
+  ],
+  "What are the most important traits in a friend? Don't give information outside the document or repeat your findings": [
+    "Loyalty is the most important trait in a friend",
+    "Honesty is essential in any friendship",
+    "A good sense of humor is one of the most important traits in a friend"
+  ],
+  "What makes a perfect morning? Don't give information outside the document or repeat your findings": [
+    "A perfect morning starts with a good cup of coffee",
+    "Waking up to sunlight streaming through the window makes a morning perfect",
+    "A perfect morning includes some quiet time to reflect or plan the day"
+  ],
+  "What are the best ways to celebrate a birthday? Don't give information outside the document or repeat your findings": [
+    "The best way to celebrate a birthday is with close friends and family",
+    "Celebrating with a special homemade meal is the best",
+    "Going on an adventure, like a day trip, makes for a great birthday celebration"
+  ],
+  "What makes a good cup of coffee? Don't give information outside the document or repeat your findings": [
+    "A good cup of coffee starts with freshly ground beans",
+    "The right brewing method is key to a good cup of coffee",
+    "A balanced flavor is what makes a cup of coffee great"
+  ],
+  "What are the best ways to stay organized? Don't give information outside the document or repeat your findings": [
+    "Keeping a to-do list is one of the best ways to stay organized",
+    "Using color-coded folders helps keep things organized",
+    "Setting aside time each day to tidy up helps maintain organization"
+  ],
+  "What are the most effective ways to save money? Don't give information outside the document or repeat your findings": [
+    "Setting a budget is one of the most effective ways to save money",
+    "Cutting back on unnecessary subscriptions can help save money",
+    "Building an emergency fund is an essential step to saving money"
+  ],
+  "What makes a great movie? Don't give information outside the document or repeat your findings": [
+    "A great movie has a compelling storyline that keeps you engaged",
+    "Strong performances by the actors make a movie great",
+    "Visually stunning cinematography adds to the greatness of a movie"
+  ],
+  "What are the best ways to improve your writing skills? Don't give information outside the document or repeat your findings": [
+    "Reading regularly is one of the best ways to improve your writing",
+    "Practicing writing every day can make you a better writer",
+    "Receiving constructive feedback is crucial to improving your writing skills"
+  ],
+  "What makes a good leader? Don't give information outside the document or repeat your findings": [
+    "A good leader is someone who leads by example",
+    "Being able to communicate effectively is key for a good leader",
+    "Empathy is an essential trait for a good leader"
+  ],
+  "What are the best ways to stay healthy? Don't give information outside the document or repeat your findings": [
+    "Eating a balanced diet is one of the best ways to stay healthy",
+    "Exercising regularly is crucial for maintaining good health",
+    "Getting enough sleep each night is vital to staying healthy"
+  ],
+  "What makes a successful business? Don't give information outside the document or repeat your findings": [
+    "A successful business focuses on customer satisfaction",
+    "Having a clear vision and goals is essential for success",
+    "Strong teamwork is key to making a business successful"
+  ],
+  "What are the most important qualities of a good friend? Don't give information outside the document or repeat your findings": [
+    "Trustworthiness is one of the most important qualities of a good friend",
+    "A good friend is someone who listens without judgment",
+    "A good friend is supportive and always there when you need them"
+  ],
+  "What makes a good song? Don't give information outside the document or repeat your findings": [
+    "A great song has a catchy melody that sticks with you",
+    "Strong lyrics that evoke emotion make a song unforgettable",
+    "A unique and memorable sound is what makes a song stand out"
+  ],
+  "What are the best ways to improve your communication skills? Don't give information outside the document or repeat your findings": [
+    "Listening actively is one of the best ways to improve communication",
+    "Being clear and concise in your speech helps improve communication",
+    "Practicing empathy during conversations improves communication skills"
+  ],
+  "What makes a great restaurant? Don't give information outside the document or repeat your findings": [
+    "A great restaurant offers delicious food with consistent quality",
+    "Excellent customer service is a hallmark of a great restaurant",
+    "A cozy and welcoming atmosphere makes a restaurant stand out"
+  ],
+  "What makes a good workout? Don't give information outside the document or repeat your findings": [
+    "A good workout includes a balanced mix of cardio and strength training",
+    "Consistency is key to getting the most out of your workout",
+    "A workout that challenges your limits is the most effective"
+  ],
+  "What makes a good book? Don't give information outside the document or repeat your findings": [
+    "A good book has characters you can relate to or care about",
+    "An intriguing plot that keeps you turning the pages makes a book great",
+    "The writing style should be engaging and immersive"
+  ],
+  "What are the best ways to boost creativity? Don't give information outside the document or repeat your findings": [
+    "Taking breaks and letting your mind wander can boost creativity",
+    "Exposing yourself to new experiences helps spark creative ideas",
+    "Collaborating with others can open up new avenues for creativity"
+  ],
+  "What makes a good vacation destination? Don't give information outside the document or repeat your findings": [
+    "A good vacation destination offers a balance of relaxation and adventure",
+    "Having a variety of activities available makes a destination great",
+    "The local culture and food make a vacation destination memorable"
+  ],
+  "What are the best ways to stay motivated? Don't give information outside the document or repeat your findings": [
+    "Setting small, achievable goals is one of the best ways to stay motivated",
+    "Surrounding yourself with positive influences helps maintain motivation",
+    "Rewarding yourself after completing tasks keeps you motivated"
+  ],
+  "What makes a good day? Don't give information outside the document or repeat your findings": [
+    "A good day is one where you accomplish your goals",
+    "Spending time with loved ones is what makes a day good",
+    "Having time for relaxation and self-care makes a day great"
+  ],
+  "What are the most important things to consider when buying a house? Don't give information outside the document or repeat your findings": [
+    "Location is one of the most important factors when buying a house",
+    "The condition of the house and its maintenance history is key",
+    "Your budget is crucial to making a wise home-buying decision"
+  ],
+  "What makes a great team? Don't give information outside the document or repeat your findings": [
+    "A great team communicates effectively and openly",
+    "Trust among team members is essential for success",
+    "Everyone in a great team brings unique strengths to the table"
+  ],
+  "What are the best ways to stay focused at work? Don't give information outside the document or repeat your findings": [
+    "Breaking tasks into smaller steps helps stay focused at work",
+    "Eliminating distractions is a great way to stay focused",
+    "Setting specific goals for the day can help maintain focus at work"
+  ],
+  "What makes a good movie soundtrack? Don't give information outside the document or repeat your findings": [
+    "A good movie soundtrack complements the story and mood",
+    "Memorable and iconic songs make a soundtrack great",
+    "A movie soundtrack should enhance the viewing experience without overpowering it"
+  ],
+  "What are the best ways to prepare for an interview? Don't give information outside the document or repeat your findings": [
+    "Researching the company thoroughly is one of the best ways to prepare",
+    "Practicing common interview questions can help you feel more confident",
+    "Dressing appropriately for the interview is crucial for making a good impression"
+  ],
+  "What makes a good book cover? Don't give information outside the document or repeat your findings": [
+    "A good book cover should capture the essence of the story",
+    "The design should be eye-catching and intriguing",
+    "A well-designed book cover encourages readers to pick up the book"
+  ],
+  "What are the best ways to organize your home? Don't give information outside the document or repeat your findings": [
+    "Decluttering regularly is one of the best ways to organize your home",
+    "Creating designated spaces for everything keeps your home organized",
+    "Using storage solutions like baskets and bins helps maintain order"
+  ],
+  "What makes a good conversation? Don't give information outside the document or repeat your findings": [
+    "A good conversation involves active listening from both sides",
+    "Being respectful and considerate makes any conversation enjoyable",
+    "Sharing experiences and stories makes conversations engaging"
+  ],
+  "What are the best ways to improve your health? Don't give information outside the document or repeat your findings": [
+    "Eating a variety of fruits and vegetables is one of the best ways to improve your health",
+    "Getting regular exercise helps improve overall health",
+    "Prioritizing mental health through relaxation and mindfulness improves well-being"
+  ],
+  "What makes a great piece of art? Don't give information outside the document or repeat your findings": [
+    "A great piece of art evokes strong emotions",
+    "It should challenge your perspective and make you think",
+    "A unique style and technique make art stand out as great"
+  ],
+  "What are the best ways to boost productivity? Don't give information outside the document or repeat your findings": [
+    "Using time-blocking techniques helps boost productivity",
+    "Taking regular breaks prevents burnout and boosts productivity",
+    "Setting clear priorities is essential for staying productive"
+  ],
+  "What makes a good relationship? Don't give information outside the document or repeat your findings": [
+    "A good relationship is built on trust and communication",
+    "Mutual respect and understanding are key to any good relationship",
+    "Supporting each other's dreams and goals makes a relationship strong"
+  ],
+  "What are the best ways to enjoy nature? Don't give information outside the document or repeat your findings": [
+    "Going for a hike is one of the best ways to enjoy nature",
+    "Spending time near water, like a lake or river, is very relaxing",
+    "Simply sitting quietly and observing wildlife is a peaceful way to enjoy nature"
+  ],
+  "What makes a good cup of tea? Don't give information outside the document or repeat your findings": [
+    "A good cup of tea has the right balance of strength and flavor",
+    "The water temperature should be just right to extract the best flavor",
+    "Using high-quality loose-leaf tea is key to making a good cup of tea"
+  ],
+  "What are the best ways to improve your memory? Don't give information outside the document or repeat your findings": [
+    "Repeating information out loud helps improve memory",
+    "Using mnemonic devices makes it easier to remember things",
+    "Getting enough sleep is essential for improving memory"
+  ],
+  "What makes a good gift? Don't give information outside the document or repeat your findings": [
+    "A good gift is thoughtful and reflects the recipient's interests",
+    "A unique or personalized gift always stands out",
+    "The best gifts show that you know the person well"
+  ],
+  "What are the best ways to stay energized throughout the day? Don't give information outside the document or repeat your findings": [
+    "Eating a balanced breakfast is one of the best ways to stay energized",
+    "Drinking water throughout the day helps maintain energy levels",
+    "Taking short breaks to stretch can help you stay energized all day long"
+  ],
+  "What makes a good documentary? Don't give information outside the document or repeat your findings": [
+    "A good documentary presents compelling facts in an engaging way",
+    "It tells a story that captivates the viewer",
+    "Strong visuals and interviews enhance the overall impact of a documentary"
+  ],
+  "What are the best ways to get better sleep? Don't give information outside the document or repeat your findings": [
+    "Creating a relaxing bedtime routine is one of the best ways to get better sleep",
+    "Avoiding screens before bed helps improve sleep quality",
+    "Making sure your bedroom is cool and dark contributes to better sleep"
+  ],
+  "What makes a good puzzle? Don't give information outside the document or repeat your findings": [
+    "A good puzzle strikes the right balance between challenging and solvable",
+    "The pieces should fit together smoothly and consistently",
+    "A unique or themed design makes a puzzle enjoyable"
+  ],
+  "What are the best ways to stay calm in stressful situations? Don't give information outside the document or repeat your findings": [
+    "Taking deep breaths is one of the best ways to stay calm",
+    "Focusing on the present moment helps manage stress",
+    "Practicing mindfulness can help stay calm during stressful situations"
+  ],
+  "Where can you find the most beautiful beaches? Don't give information outside the document or repeat your findings": [
+    "The most beautiful beaches are in the Maldives",
+    "You can find stunning beaches in Hawaii",
+    "Bora Bora is home to some of the most beautiful beaches in the world"
+  ],
+  "What steps should I take to achieve my goals? Don't give information outside the document or repeat your findings": [
+    "First, set clear and realistic goals",
+    "Then, break them into smaller tasks",
+    "Finally, track your progress and adjust as needed"
+  ],
+  "Which foods are essential for a balanced diet? Don't give information outside the document or repeat your findings": [
+    "Fresh vegetables and fruits are essential for a balanced diet",
+    "Whole grains like quinoa are important for nutrition",
+    "Lean proteins, such as chicken and fish, should also be part of a balanced diet"
+  ],
+  "How do you increase your chances of success in business? Don't give information outside the document or repeat your findings": [
+    "Focus on understanding your market and customers",
+    "Build a strong network and seek mentorship",
+    "Adapt and innovate constantly to stay competitive"
+  ],
+  "When is the best time to go for a hike? Don't give information outside the document or repeat your findings": [
+    "The best time to hike is early in the morning before it gets too hot",
+    "Spring and fall are ideal for hiking due to mild weather",
+    "Avoid hiking during extreme weather conditions for safety"
+  ],
+  "Where can you find the best coffee beans? Don't give information outside the document or repeat your findings": [
+    "Some of the best coffee beans come from Colombia",
+    "Ethiopia is known for producing high-quality coffee beans",
+    "Jamaica’s Blue Mountain coffee is considered some of the best in the world"
+  ],
+  "How do you prepare for a big presentation? Don't give information outside the document or repeat your findings": [
+    "Start by organizing your thoughts and structuring your slides",
+    "Rehearse your presentation several times to build confidence",
+    "Anticipate potential questions and prepare answers in advance"
+  ],
+  "What should you do if you encounter a bear in the wild? Don't give information outside the document or repeat your findings": [
+    "Stay calm and avoid making sudden movements",
+    "Make yourself appear larger by raising your arms",
+    "If the bear approaches, slowly back away while keeping your eye on it"
+  ],
+  "Which hobbies help reduce stress? Don't give information outside the document or repeat your findings": [
+    "Yoga and meditation are great for reducing stress",
+    "Taking up painting or drawing can be therapeutic",
+    "Going for a walk or run outdoors is a simple way to relieve stress"
+  ],
+  "How can you maintain a positive attitude during tough times? Don't give information outside the document or repeat your findings": [
+    "Focus on the things you're grateful for",
+    "Talk to supportive friends or family to lift your spirits",
+    "Find small ways to make each day better, even in tough circumstances"
+  ],
+  "What are the main challenges of living in a big city? Don't give information outside the document or repeat your findings": [
+    "The cost of living is often higher in big cities",
+    "The fast pace can lead to stress and burnout",
+    "Traffic and congestion are common challenges in urban areas"
+  ],
+  "Why do some people prefer winter over summer? Don't give information outside the document or repeat your findings": [
+    "Some people prefer winter because they enjoy snow sports",
+    "Winter offers a cozy, quiet atmosphere that some people find peaceful",
+    "Others prefer winter because of the cooler temperatures"
+  ],
+  "How do you make a great first impression? Don't give information outside the document or repeat your findings": [
+    "Start with a friendly greeting and a firm handshake",
+    "Make eye contact and show genuine interest in others",
+    "Be confident, but not overly assertive"
+  ],
+  "What are some effective ways to boost your energy in the morning? Don't give information outside the document or repeat your findings": [
+    "Drinking a glass of water first thing can kickstart your day",
+    "Stretching or doing light exercise helps wake you up",
+    "Eating a balanced breakfast is essential for energy"
+  ],
+  "Where can you find the best views in the world? Don't give information outside the document or repeat your findings": [
+    "The view from the Grand Canyon is one of the best in the world",
+    "Mount Everest offers breathtaking views for adventurous travelers",
+    "The view from Santorini, Greece, is stunning with its sunsets"
+  ],
+  "How can you improve your mental health? Don't give information outside the document or repeat your findings": [
+    "Make time for activities that bring you joy",
+    "Practice mindfulness or meditation regularly",
+    "Seek professional help when needed to manage stress or anxiety"
+  ],
+  "Why do people enjoy traveling so much? Don't give information outside the document or repeat your findings": [
+    "Traveling allows people to experience new cultures and foods",
+    "It gives individuals a break from their everyday routine",
+    "Traveling can be a way to reconnect with nature or explore history"
+  ],
+  "What should I do if I lose my phone? Don't give information outside the document or repeat your findings": [
+    "First, try to track it using a GPS or find my phone app",
+    "If you can’t find it, report it to your service provider",
+    "Consider remotely wiping your phone to protect personal information"
+  ],
+  "What makes a great vacation? Don't give information outside the document or repeat your findings": [
+    "A great vacation has the perfect mix of relaxation and adventure",
+    "Experiencing new cultures and cuisines adds to a great vacation",
+    "Spending quality time with loved ones makes a vacation memorable"
+  ],
+  "When should you visit a museum? Don't give information outside the document or repeat your findings": [
+    "Visiting museums during the off-peak hours avoids the crowds",
+    "Early mornings or late afternoons are ideal for museum visits",
+    "Weekdays are generally the best time to visit a museum for a quiet experience"
+  ],
+  "What types of exercises should I do to improve flexibility? Don't give information outside the document or repeat your findings": [
+    "Yoga and Pilates are excellent for improving flexibility",
+    "Stretching before and after workouts can increase flexibility",
+    "Foam rolling helps release tight muscles and improve flexibility"
+  ],
+  "How can you make your home more eco-friendly? Don't give information outside the document or repeat your findings": [
+    "Using energy-efficient appliances reduces your carbon footprint",
+    "Installing solar panels is a great way to make your home eco-friendly",
+    "Using reusable products instead of single-use plastics helps the environment"
+  ],
+  "What are the best ways to prepare for a road trip? Don't give information outside the document or repeat your findings": [
+    "Planning your route in advance is one of the best ways to prepare",
+    "Pack enough snacks and drinks for the journey",
+    "Ensure your car is in good condition and check the tires and oil"
+  ],
+  "How do you improve your cooking skills? Don't give information outside the document or repeat your findings": [
+    "Practice cooking regularly to improve your skills",
+    "Watch cooking tutorials to learn new techniques",
+    "Experiment with new recipes to expand your culinary knowledge"
+  ],
+  "Where can you find the best pizza? Don't give information outside the document or repeat your findings": [
+    "New York City is famous for its delicious pizza",
+    "Naples, Italy, is known for being the birthplace of pizza",
+    "Chicago is home to some of the best deep-dish pizza in the world"
+  ],
+  "Why do people enjoy sports so much? Don't give information outside the document or repeat your findings": [
+    "Sports provide an outlet for competition and personal achievement",
+    "They bring people together to form a sense of community",
+    "The excitement of the game and the adrenaline keep fans hooked"
+  ],
+  "How can you make a lasting impact as a teacher? Don't give information outside the document or repeat your findings": [
+    "Being genuinely interested in your students’ success makes a lasting impact",
+    "Inspiring curiosity and fostering creativity can shape students' futures",
+    "Providing a supportive and encouraging environment is key for making a lasting impact"
+  ],
+  "What should you do if you feel overwhelmed? Don't give information outside the document or repeat your findings": [
+    "Take a step back and break tasks into smaller, manageable pieces",
+    "Talk to someone you trust for advice or support",
+    "Take a few minutes to relax, breathe deeply, and clear your mind"
+  ],
+  "What should you look for when buying a new car? Don't give information outside the document or repeat your findings": [
+    "Consider the fuel efficiency and long-term reliability of the car",
+    "Make sure it fits your needs in terms of space and features",
+    "Look at safety ratings and reviews to ensure it's a reliable choice"
+  ],
+  "What are the best ways to improve your self-discipline? Don't give information outside the document or repeat your findings": [
+    "Start by setting clear, achievable goals",
+    "Stay consistent with your habits, even when motivation wanes",
+    "Break down large tasks into smaller steps to make them more manageable"
+  ],
+  "How can you find the perfect gift for someone? Don't give information outside the document or repeat your findings": [
+    "Consider the person's hobbies and interests when choosing a gift",
+    "Personalized gifts often have more meaning",
+    "Something useful or practical is always appreciated as a gift"
+  ],
+  "Why do some people prefer living in the countryside? Don't give information outside the document or repeat your findings": [
+    "The peace and quiet of the countryside attract those seeking a slower pace of life",
+    "Many people enjoy the connection to nature in rural areas",
+    "Living in the countryside often means more space and privacy"
+  ],
+  "What makes a good breakfast? Don't give information outside the document or repeat your findings": [
+    "A good breakfast includes a mix of protein, fiber, and healthy fats",
+    "Fruit and whole grains are essential for a balanced breakfast",
+    "Starting the day with a warm beverage like coffee or tea enhances the breakfast experience"
+  ],
+  "Where can you find the best street food? Don't give information outside the document or repeat your findings": [
+    "Bangkok is known for its incredible street food scene",
+    "Mexico City offers delicious and affordable street food",
+    "Marrakech has some of the best street food in North Africa"
+  ],
+  "How do you stay productive while working from home? Don't give information outside the document or repeat your findings": [
+    "Setting a dedicated workspace is essential for productivity",
+    "Taking regular breaks helps you stay focused",
+    "Having a clear schedule and set hours for work keeps you on track"
+  ],
+  "What are the main ingredients in a classic burger? Don't give information outside the document or repeat your findings": [
+    "The main ingredients in a classic burger are ground beef, lettuce, and tomato",
+    "Cheese is often added to a classic burger for extra flavor",
+    "A soft burger bun holds everything together in a classic burger"
+  ]
+}
